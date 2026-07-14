@@ -4,3 +4,4 @@ tej
 liszt 
 tojas
 cukor
+vanilia cukor
