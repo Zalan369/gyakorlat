@@ -1,0 +1,11 @@
+elso sor
+<<<<<<< HEAD
+cukor
+=======
+Palacsinta Recept:
+tej
+liszt 
+tojas
+cukor
+vanilia cukor
+>>>>>>> origin/1-palacsinta-recept
